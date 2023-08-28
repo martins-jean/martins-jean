@@ -4,4 +4,4 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 
 ## My Tech Stack
 
-<img ![apple-touch-icon-144x144-precomposed](https://github.com/martins-jean/martins-jean/assets/118685801/2214cdb8-dec0-44dd-8866-5b5beea27712) height="200" width="200">
+![apple-touch-icon-144x144-precomposed](https://github.com/martins-jean/martins-jean/assets/118685801/2214cdb8-dec0-44dd-8866-5b5beea27712)
