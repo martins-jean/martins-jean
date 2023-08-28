@@ -14,6 +14,9 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 
 ![dbt-logo-500AB0BAA7-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/f926bff1-e380-4b1d-9af6-7bec2a469f37)
 
+## Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af606e0a-972d-4750-b8fb-2369eb0b4e8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
