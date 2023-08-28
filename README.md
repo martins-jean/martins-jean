@@ -19,7 +19,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 <a href="https://www.credly.com/users/jean-martins.ai">Link to the Credly account for verification</a>
 
 ![aws-certified-data-analytics-specialty (2)](https://github.com/martins-jean/martins-jean/assets/118685801/336ce17e-4a53-48a9-9b4f-d10d351d26de)
-![aws-certified-data-analytics-specialty (2)](https://github.com/martins-jean/martins-jean/assets/118685801/c6bb9632-f762-4784-85d5-e7a8965b5ca7)
+![aws-certified-data-analytics-specialty (3)](https://github.com/martins-jean/martins-jean/assets/118685801/d156dec7-0899-4875-8382-815c539d4e47)
 
 
 
