@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
+
+My name is Jean Martins, I am a certified multi-cloud data engineer and workforce analytics expert.
 
 <!--
 **martins-jean/martins-jean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
