@@ -4,6 +4,6 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 
 ## Tech Stack
 
-# Programming Languages
+### Programming Languages
 
-![python](https://github.com/martins-jean/martins-jean/assets/118685801/bda2897a-7a9d-4866-82db-8ce8ab20228a)
+![python](https://github.com/martins-jean/martins-jean/assets/118685801/955812cb-e22e-4e2c-bf74-fbf219e5e812)
