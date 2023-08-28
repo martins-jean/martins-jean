@@ -17,7 +17,8 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 
 ## Cloud Certifications
 
-<a href="https://www.credly.com/users/jean-martins.ai">Link to the Credly account for verification</a>
+<a href="https://www.credly.com/users/jean-martins.ai">Credly profile here</a>
+<a href="https://www.credential.net/profile/2023dataengineer/wallet#gs.4zazkd">Accredible profile here</a>
 
 ![aws-certified-data-analytics-specialty (4)](https://github.com/martins-jean/martins-jean/assets/118685801/60ca29b0-1f88-47f0-9f74-add6407f95c0)
 
