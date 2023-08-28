@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile 👋
+# Welcome to my GitHub profile 👋
 
 My name is Jean Martins, I am a certified multi-cloud data engineer and workforce analytics expert.
 
