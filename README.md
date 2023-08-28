@@ -16,7 +16,7 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af606e0a-972d-4750-b8fb-2369eb0b4e8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/af606e0a-972d-4750-b8fb-2369eb0b4e8b/public_url">AWS Data Analytics</img>
 
 
 
