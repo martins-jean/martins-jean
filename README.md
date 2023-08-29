@@ -15,7 +15,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![dbt-logo-500AB0BAA7-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/f926bff1-e380-4b1d-9af6-7bec2a469f37)
 
 
-## Cloud Certifications
+### Certifications
 
 <a href="https://www.credly.com/users/jean-martins.ai">Credly profile here</a> <br>
 <a href="https://www.credential.net/profile/2023dataengineer/wallet#gs.4zazkd">Accredible profile here</a>
