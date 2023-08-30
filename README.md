@@ -27,6 +27,9 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 
 ### Main Certifications
 ![aws-certified-data-analytics-specialty (4)](https://github.com/martins-jean/martins-jean/assets/118685801/60ca29b0-1f88-47f0-9f74-add6407f95c0)
+![microsoft-certified-azure-data-scientist-associate](https://github.com/martins-jean/martins-jean/assets/118685801/e97f74f7-1154-4ee8-a212-9db43fa58c25)
+![azure-data-engineer-associate-600x600 (1)](https://github.com/martins-jean/martins-jean/assets/118685801/d087064f-3646-445b-94ee-170014f4429a)
+
 
 You can verify the validity of the above certifications and discover my other certifications by using the links below: <br>
 <a href="https://www.credly.com/users/jean-martins.ai">Credly profile here</a> <br>
