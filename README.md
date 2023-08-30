@@ -26,8 +26,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![linux_penguin_animal_9362](https://github.com/martins-jean/martins-jean/assets/118685801/426dcca4-80ea-48e8-a196-2fe8fd057c0d)
 
 ### Main Certifications
-
-![azure-data-scientist-associate-600x600](https://github.com/martins-jean/martins-jean/assets/118685801/ddec8196-73f5-4bda-8940-cd2d189d1138)
+![AWS-Certified-Data-Analytics-Specialty_badge c74203ecf6d7c4889d01d8b4ba5c9df6e69c6f43 (1)](https://github.com/martins-jean/martins-jean/assets/118685801/b19d9f5a-1572-4ea3-8261-996bf9c1ae2f)
 ![azure-data-scientist-associate-600x600 (1) (1)](https://github.com/martins-jean/martins-jean/assets/118685801/7df3e0a8-d490-4ef6-9579-4e9d23e435aa)
 
 
