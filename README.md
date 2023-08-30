@@ -19,6 +19,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 
 ### Cloud Computing Tools
 ![terraform_icon_131940](https://github.com/martins-jean/martins-jean/assets/118685801/a199f21b-6624-47aa-b1e1-12674361baa5)
+![docker_original_wordmark_logo_icon_146557](https://github.com/martins-jean/martins-jean/assets/118685801/d76ad7e6-1b43-433c-a7e0-c117eacbc799)
 
 
 
