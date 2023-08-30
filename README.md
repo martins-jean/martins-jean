@@ -14,8 +14,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 
 ![dbt-logo-500AB0BAA7-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/f926bff1-e380-4b1d-9af6-7bec2a469f37)
 ![29506snowflake](https://github.com/martins-jean/martins-jean/assets/118685801/d5ea4879-0eeb-4971-b0e2-6a47b475cbf9)
-![logo_power_bi_office_data_microsoft_icon_228476](https://github.com/martins-jean/martins-jean/assets/118685801/c2bbb747-3a83-4f8a-89e1-db71ddb7e35e)
-
+![TB (1)](https://github.com/martins-jean/martins-jean/assets/118685801/142b613d-76e4-4d02-8fed-53d9b747b736)
 
 
 ### Cloud Computing Tools
