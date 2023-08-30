@@ -20,7 +20,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![terraform_icon_131940](https://github.com/martins-jean/martins-jean/assets/118685801/a199f21b-6624-47aa-b1e1-12674361baa5)
 ![docker_icon_146192](https://github.com/martins-jean/martins-jean/assets/118685801/efb2b881-f995-4c78-ad47-96875aa000de)
 ![kubernetes_logo_icon_168359](https://github.com/martins-jean/martins-jean/assets/118685801/f49f7ef7-1c8d-421b-ab10-0a4cf456c6c5)
-
+![linux_penguin_animal_9362](https://github.com/martins-jean/martins-jean/assets/118685801/426dcca4-80ea-48e8-a196-2fe8fd057c0d)
 
 ### Main Certifications
 ![aws-certified-data-analytics-specialty (4)](https://github.com/martins-jean/martins-jean/assets/118685801/60ca29b0-1f88-47f0-9f74-add6407f95c0)
