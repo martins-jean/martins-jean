@@ -16,6 +16,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![29506snowflake](https://github.com/martins-jean/martins-jean/assets/118685801/d5ea4879-0eeb-4971-b0e2-6a47b475cbf9)
 ![logo_power_bi_office_data_microsoft_icon_228476](https://github.com/martins-jean/martins-jean/assets/118685801/ed37e861-5e2d-4614-acf6-87f9190673ea)
 ![tableau_logo_icon_144818](https://github.com/martins-jean/martins-jean/assets/118685801/3dcb0c42-e300-45f7-bbd3-493534866a6f)
+![databricks_logo_icon_170295](https://github.com/martins-jean/martins-jean/assets/118685801/dfab2e06-83d6-4a5e-b461-2df1b072e600)
 ![apache_spark_logo_icon_170561 (2)](https://github.com/martins-jean/martins-jean/assets/118685801/762159a3-93f5-41e0-9c1f-e6c1cb434583)
 
 ### Cloud Computing Tools
@@ -23,7 +24,6 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![docker_icon_146192](https://github.com/martins-jean/martins-jean/assets/118685801/efb2b881-f995-4c78-ad47-96875aa000de)
 ![kubernetes_logo_icon_168359](https://github.com/martins-jean/martins-jean/assets/118685801/f49f7ef7-1c8d-421b-ab10-0a4cf456c6c5)
 ![linux_penguin_animal_9362](https://github.com/martins-jean/martins-jean/assets/118685801/426dcca4-80ea-48e8-a196-2fe8fd057c0d)
-![linux_logo_icon_171222 (1)](https://github.com/martins-jean/martins-jean/assets/118685801/26a42c15-2a45-4b98-ba1d-9fd98c55ff06)
 
 ### Main Certifications
 ![aws-certified-data-analytics-specialty (4)](https://github.com/martins-jean/martins-jean/assets/118685801/60ca29b0-1f88-47f0-9f74-add6407f95c0)
