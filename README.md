@@ -14,6 +14,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![dbt-logo-500AB0BAA7-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/db0ced12-d002-4f09-89b3-d0a0d0b04aba)
 ![7154a4_Snowflake_a6a3c49601](https://github.com/martins-jean/martins-jean/assets/118685801/f71f4044-ef45-4de1-ba9f-42573a53686e)
 ![pin_large (1)](https://github.com/martins-jean/martins-jean/assets/118685801/a9c1a24d-d79f-42f5-b307-de2e0e47b9a3)
+![databricks_logo_icon_170295](https://github.com/martins-jean/martins-jean/assets/118685801/4fc81b5f-8f1a-445b-8733-8ab12ba34bb4)
 ![800px-New_Power_BI_Logo svg (1)](https://github.com/martins-jean/martins-jean/assets/118685801/9e4fb8e4-ad6a-415f-92ba-7c36f4d41579)
 ![tableau-software-logo-F1CE2CA54A-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/83b46a6a-979c-46e8-9961-dd0737cc773d)
 
