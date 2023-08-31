@@ -11,9 +11,7 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![sql-document-outlined-interface-symbol_icon-icons com_57504](https://github.com/martins-jean/martins-jean/assets/118685801/d8c5b172-7235-490e-bf4e-392bff49c451)
 
 ### Data Engineering Tools
-![dbt_logo_icon_249058](https://github.com/martins-jean/martins-jean/assets/118685801/67d1cec5-1ed1-41fb-88e3-c765c631e28d)
-![snowflake_logo_icon_168808](https://github.com/martins-jean/martins-jean/assets/118685801/d5e64dfc-3809-472e-b948-1f1e2e27307c)
-
+![Snowflake-Symbol (1)](https://github.com/martins-jean/martins-jean/assets/118685801/ee065c3f-7f22-4bef-a2a5-61976b84f7eb)
 
 
 ### Main Certifications
