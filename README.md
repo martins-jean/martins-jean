@@ -25,11 +25,9 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![file_type_docker_icon_130643](https://github.com/martins-jean/martins-jean/assets/118685801/48def2fc-ac96-42de-832b-6b238e49164a)
 ![kubernetes_logo_icon_168359](https://github.com/martins-jean/martins-jean/assets/118685801/92613fa6-5539-4ec4-9a64-5e0a880f803f)
 
-### Main Certifications
+### Certifications
 
-
-
-You can verify the validity of the above certifications and discover my other certifications by using the links below: <br>
+You can view my certifications and verify them at the links below: <br>
 <a href="https://www.credly.com/users/jean-martins.ai">Credly profile here</a> <br>
 <a href="https://www.credential.net/profile/2023dataengineer/wallet#gs.4zazkd">Accredible profile here</a>
 
