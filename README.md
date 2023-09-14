@@ -28,8 +28,8 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 
 ### Cloud Engineering Tools
 ![linux_penguin_animal_9362](https://github.com/martins-jean/martins-jean/assets/118685801/8708f287-8a0d-41f2-969c-097c612c525c)
-![file_type_terraform_icon_130125](https://github.com/martins-jean/martins-jean/assets/118685801/9ba99821-4e7d-4ee8-beef-78c50b0dc7aa)
 ![docker_icon_146192](https://github.com/martins-jean/martins-jean/assets/118685801/b41ffdb3-2d75-4ff3-bcf3-99b50137d52f)
+![file_type_terraform_icon_130125](https://github.com/martins-jean/martins-jean/assets/118685801/9ba99821-4e7d-4ee8-beef-78c50b0dc7aa)
 ![kubernetes_logo_icon_168359](https://github.com/martins-jean/martins-jean/assets/118685801/92613fa6-5539-4ec4-9a64-5e0a880f803f)
 
 ### Certifications
