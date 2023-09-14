@@ -9,7 +9,7 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 ![file_type_python_icon_130221](https://github.com/martins-jean/martins-jean/assets/118685801/cacede6b-83e6-434d-a511-2aa255cf16b0)
 ![file_type_scala_icon_130180](https://github.com/martins-jean/martins-jean/assets/118685801/07d3315e-92d2-47e8-9100-a868ea9e0ca2)
 ![r_project_official_logo_icon_170811](https://github.com/martins-jean/martins-jean/assets/118685801/7cda6015-b7a4-4079-88d2-cdf24ce05663)
-![postgresql_original_logo_icon_146391](https://github.com/martins-jean/martins-jean/assets/118685801/75a06239-e6c5-46bb-81ec-3583b7977381)
+![sql-file-black-rounded-rectangular-interface-symbol_icon-icons com_57633](https://github.com/martins-jean/martins-jean/assets/118685801/3f3ae9b2-48f4-4126-a7e2-10559fbdc5f1)
 
 ### Data Engineering Tools
 
@@ -28,7 +28,7 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 ### Cloud Engineering Tools
 ![linux_penguin_animal_9362](https://github.com/martins-jean/martins-jean/assets/118685801/8708f287-8a0d-41f2-969c-097c612c525c)
 ![file_type_terraform_icon_130125](https://github.com/martins-jean/martins-jean/assets/118685801/9ba99821-4e7d-4ee8-beef-78c50b0dc7aa)
-![file_type_docker_icon_130643](https://github.com/martins-jean/martins-jean/assets/118685801/48def2fc-ac96-42de-832b-6b238e49164a)
+![docker_icon_146192](https://github.com/martins-jean/martins-jean/assets/118685801/b41ffdb3-2d75-4ff3-bcf3-99b50137d52f)
 ![kubernetes_logo_icon_168359](https://github.com/martins-jean/martins-jean/assets/118685801/92613fa6-5539-4ec4-9a64-5e0a880f803f)
 
 ### Certifications
