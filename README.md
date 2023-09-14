@@ -9,6 +9,7 @@ My name is Jean Martins, I am a certified multi-cloud data engineer and workforc
 ![file_type_python_icon_130221](https://github.com/martins-jean/martins-jean/assets/118685801/cacede6b-83e6-434d-a511-2aa255cf16b0)
 ![file_type_scala_icon_130180](https://github.com/martins-jean/martins-jean/assets/118685801/07d3315e-92d2-47e8-9100-a868ea9e0ca2)
 ![r_project_official_logo_icon_170811](https://github.com/martins-jean/martins-jean/assets/118685801/7cda6015-b7a4-4079-88d2-cdf24ce05663)
+
 ![sql-file-black-rounded-rectangular-interface-symbol_icon-icons com_57633](https://github.com/martins-jean/martins-jean/assets/118685801/3f3ae9b2-48f4-4126-a7e2-10559fbdc5f1)
 
 ### Data Engineering Tools
