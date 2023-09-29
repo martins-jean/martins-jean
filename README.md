@@ -7,9 +7,8 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ### Programming Languages 
 
 ![file_type_python_icon_130221](https://github.com/martins-jean/martins-jean/assets/118685801/cacede6b-83e6-434d-a511-2aa255cf16b0)
-![r_project_official_logo_icon_170811](https://github.com/martins-jean/martins-jean/assets/118685801/7cda6015-b7a4-4079-88d2-cdf24ce05663)
-![file_type_scala_icon_130180](https://github.com/martins-jean/martins-jean/assets/118685801/07d3315e-92d2-47e8-9100-a868ea9e0ca2)
-![postgresql_original_logo_icon_146391](https://github.com/martins-jean/martins-jean/assets/118685801/45d2ec6e-b2cf-45b7-b4c0-74615e5c284d)
+![java_original_logo_icon_146458](https://github.com/martins-jean/martins-jean/assets/118685801/422bc414-650c-43bc-8e1a-f7264186d55b)
+![sql-document-outlined-interface-symbol_icon-icons com_57504](https://github.com/martins-jean/martins-jean/assets/118685801/c2f785e3-8443-48c6-9d2e-d6d7b2abfb14)
 
 ### Data engineering tools
 
