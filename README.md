@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 
-My name is Jean Martins, I am a certified multicloud data engineer and workforce analytics expert.
+My name is Jean Martins, I am a certified multicloud data expert.
 
 ## Tech Stack
 
