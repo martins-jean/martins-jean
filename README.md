@@ -17,12 +17,15 @@ My name is Jean Martins, I am a certified multicloud data engineer and workforce
 ![pin_large (1)](https://github.com/martins-jean/martins-jean/assets/118685801/a9c1a24d-d79f-42f5-b307-de2e0e47b9a3)
 ![apache_spark_logo_icon_170560](https://github.com/martins-jean/martins-jean/assets/118685801/aebc7ea0-1cae-4dcb-9cfe-3fe9f9ecd0d3)
 
-### Data analytics tools
+## Analytics Engineering
 
 ![dbt-logo-500AB0BAA7-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/db0ced12-d002-4f09-89b3-d0a0d0b04aba)
-![microsoft_office_excel_logo_icon_145720](https://github.com/martins-jean/martins-jean/assets/118685801/d15d7702-d0f3-4ab6-aed4-97481d4ccdd2)
+
+### Data visualization
+
 ![800px-New_Power_BI_Logo svg (1)](https://github.com/martins-jean/martins-jean/assets/118685801/9e4fb8e4-ad6a-415f-92ba-7c36f4d41579)
 ![tableau-software-logo-F1CE2CA54A-seeklogo com (1)](https://github.com/martins-jean/martins-jean/assets/118685801/83b46a6a-979c-46e8-9961-dd0737cc773d)
+![microsoft_office_excel_logo_icon_145720](https://github.com/martins-jean/martins-jean/assets/118685801/d15d7702-d0f3-4ab6-aed4-97481d4ccdd2)
 
 ### Containerization
 
