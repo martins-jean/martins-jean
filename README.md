@@ -7,7 +7,7 @@ My name is Jean Martins, I am a certified multicloud data expert.
 ### Programming languages 
 
 ![file_type_python_icon_130221](https://github.com/martins-jean/martins-jean/assets/118685801/cacede6b-83e6-434d-a511-2aa255cf16b0)
-![icon_sql_256_30046](https://github.com/martins-jean/martins-jean/assets/118685801/9a20d2b8-0c8e-48f6-b4ab-1f176a20aa49)
+![file_sql_format_type_icon_134681](https://github.com/martins-jean/martins-jean/assets/118685801/43c31c81-ad45-4ee7-b578-f6e522d398b4)
 
 ### Data tools
 
