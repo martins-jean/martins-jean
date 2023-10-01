@@ -14,7 +14,6 @@ My name is Jean Martins, I am a certified multicloud data expert.
 ![7154a4_Snowflake_a6a3c49601](https://github.com/martins-jean/martins-jean/assets/118685801/f71f4044-ef45-4de1-ba9f-42573a53686e)
 ![databricks_logo_icon_170295](https://github.com/martins-jean/martins-jean/assets/118685801/4fc81b5f-8f1a-445b-8733-8ab12ba34bb4)
 ![pin_large (1)](https://github.com/martins-jean/martins-jean/assets/118685801/a9c1a24d-d79f-42f5-b307-de2e0e47b9a3)
-![apache_spark_logo_icon_170560](https://github.com/martins-jean/martins-jean/assets/118685801/aebc7ea0-1cae-4dcb-9cfe-3fe9f9ecd0d3)
 
 ### Data analytics
 
